@@ -1,3 +1,4 @@
+@echo off
 git checkout --orphan latest_branch
 git add -A
 git commit -am "clean history"
