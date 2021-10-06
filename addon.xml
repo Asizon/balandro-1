@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.balandro" name="Balandro Repo" version="0.0.1" provider-name="balandro-tk">
+	<extension point="xbmc.addon.repository" name="Kampanita Repo">
+		<info>https://raw.githubusercontent.com/balandro-tk/balandro/main/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/balandro-tk/balandro/main/addons.xml.md6</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/balandro-tk/balandro/main/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Repositorio Balandro</summary>
+		<description>Repositorio Balandro</description>
+		<disclaimer>de momento para uso privado</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
